@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "firebase": "^9.6.6",
     "tailwindcss": "^3.0.18"
   }
 }
